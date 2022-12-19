@@ -1,0 +1,7 @@
+node_modules
+**/.next/**
+**/_next/**
+**/dist/**
+.yarn/**
+.pnp.cjs
+.pnp.loager.mjs
