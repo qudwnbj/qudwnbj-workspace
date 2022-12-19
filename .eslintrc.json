@@ -30,6 +30,12 @@
       }
     ]
   },
+  "overrides": [
+    {
+      "files": "packages/qudwnbj-blog/**/*.ts?(x)",
+      "extends": "next/core-web-vitals"
+    }
+  ],
   "settings": {
     "import/external-module-folders": [".yarn"]
   }
