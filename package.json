@@ -1,4 +1,7 @@
 {
   "name": "qudwnbj-workspace",
-  "packageManager": "yarn@3.3.0"
+  "packageManager": "yarn@3.3.0",
+  "devDependencies": {
+    "prettier": "^2.8.1"
+  }
 }
